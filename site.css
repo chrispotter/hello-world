@@ -1,0 +1,43 @@
+.page-title {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 0;
+  size: 100%;
+}
+.subtitle {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 0;
+}
+.title-block-left{
+  width: 49%;
+  float: left;
+}
+
+.title-block-right {
+  width: 49%;
+  float: right;
+}
+
+#portrait {
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+.section-title{
+  font-weight: bold;
+}
+.item {
+  color: green;
+  list-style: none;
+  margin:  0 0 0 10px;
+}
+
+.item a {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
